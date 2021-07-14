@@ -1,15 +1,15 @@
 {
-  "title": "<One Piece In Love>",
-  "description": "<The premise of this gag manga spinoff is about three high school students: a young male student, his girlfriend and a third wheel who is a One Piece fanatic. Their names are similar to the Straw Hat Pirates and the group form a fan club dedicated to One Piece. Each chapter is a parody of the series.>",
-  "artist": "<Daiki Ihara>",
+  "title": "One Piece In Love",
+  "description": "The premise of this gag manga spinoff is about three high school students: a young male student, his girlfriend and a third wheel who is a One Piece fanatic. Their names are similar to the Straw Hat Pirates and the group form a fan club dedicated to One Piece. Each chapter is a parody of the series.",
+  "artist": "Daiki Ihara",
   "author": "Daiki Ihara",
-  "cover": "<https://static.wikia.nocookie.net/onepiece/images/e/ef/One_Piece_in_Love_Volume_1.png/revision/latest/scale-to-width-down/316?cb=20210203140542>",
+  "cover": "https://static.wikia.nocookie.net/onepiece/images/e/ef/One_Piece_in_Love_Volume_1.png/revision/latest/scale-to-width-down/316?cb=20210203140542",
   "chapters": {
     "<1>": {
-      "title": "<One Piece In Love?",
-      "volume": "<1>",
+      "title": "One Piece In Love",
+      "volume": "1",
       "groups": {
-        "<A + D>": "/proxy/api/imgur/chapter/<O98iwNp>/"
+        "A + D": "/proxy/api/imgur/chapter/<O98iwNp>/"
       },
       "last_updated": "1616368746"
     }
