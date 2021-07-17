@@ -1,0 +1,65 @@
+{
+  "title": "Kengan Omega",
+  "description": "Beginning two years after the game-changing Kengan Annihilation Tournament on Ganryu Island, we follow the paths of aspiring fighter Narushima Koga and the mysterious Gaoh Ryuki as they are tangled up in the underground world of the Kengan matches.",
+  "artist": "Daromeon",
+  "author": "SANDROVICH Yabako",
+  "cover": "https://i.imgur.com/e60StCn.png",
+  "chapters": {
+    "112": {
+      "title": "Meshing Gears",
+      "volume": "N/a",
+      "groups": {
+        "Scans of Metsudo": "/proxy/api/imgur/chapter/v48pkfE/"
+      },
+      "last_updated": "1616647170"
+    },
+       "113": {
+      "title": "It's Not About Logic",
+      "volume": "N/A",
+      "groups": {
+        "Scans of Metsudo": "/proxy/api/imgur/chapter/3lf7VrC/"
+      },
+      "last_updated": "1615297170"
+    },
+    "114": {
+      "title": "Partings Make Up Too Much of Our Life",
+      "volume": "N/a",
+      "groups": {
+        "Scans of Metsudo": "/proxy/api/imgur/chapter/Skwhubt/"
+      },
+      "last_updated": "1612877970"
+    },
+     "114.5": {
+      "title": "Partings Make Up Too Much of Our Life (2)",
+      "volume": "N/a",
+      "groups": {
+        "Scans of Metsudo": "/proxy/api/imgur/chapter/pwMWpMJ/"
+      },
+      "last_updated": "1620633851"
+    },
+    "115": {
+      "title": "The Silent Nightmare",
+      "volume": "N/a",
+      "groups": {
+        "Scans of Metsudo": "/proxy/api/imgur/chapter/e4LrXUw/"
+      },
+      "last_updated": "1623306010"
+    },
+    "116": {
+      "title": "The Legend of The Mask",
+      "volume": "N/a",
+      "groups": {
+        "Scans of Metsudo": "/proxy/api/imgur/chapter/wS61a6T/"
+      },
+      "last_updated": "1622021393"
+    },
+    "117": {
+      "title": "Under The Mask",
+      "volume": "1",
+      "groups": {
+        "Scans of Metsudo": "/proxy/api/imgur/chapter/fP9PtFv/"
+      },
+      "last_updated": "1624604312"
+    },
+   }
+}
