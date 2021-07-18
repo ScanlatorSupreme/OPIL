@@ -1,81 +1,81 @@
 {
-  "title": "One Piece In Love",
-  "description": "The premise of this gag manga spinoff is about three high school students: a young male student, his girlfriend and a third wheel who is a One Piece fanatic. Their names are similar to the Straw Hat Pirates and the group form a fan club dedicated to One Piece. Each chapter is a parody of the series.",
-  "artist": "Daiki Ihara",
-  "author": "Daiki Ihara",
-  "cover": "https://i.imgur.com/e60StCn.png",
-  "chapters": {
-    "1": {
-      "title": " Love Romance —The Beginning of Love—",
-      "volume": "1",
-      "groups": {
-        "A and D": "/proxy/api/imgur/chapter/O98iwNp/"
+   "title":"One Piece In Love",
+   "description":"The premise of this gag manga spinoff is about three high school students: a young male student, his girlfriend and a third wheel who is a One Piece fanatic. Their names are similar to the Straw Hat Pirates and the group form a fan club dedicated to One Piece. Each chapter is a parody of the series.",
+   "artist":"Daiki Ihara",
+   "author":"Daiki Ihara",
+   "cover":"https://i.imgur.com/e60StCn.png",
+   "chapters":{
+      "1":{
+         "title":" Love Romance —The Beginning of Love—",
+         "volume":"1",
+         "groups":{
+            "A and D":"/proxy/api/imgur/chapter/O98iwNp/"
+         },
+         "last_updated":"1616647170"
       },
-      "last_updated": "1616647170"
-    },
-       "2": {
-      "title": "Zoo ",
-      "volume": "1",
-      "groups": {
-        "A and D": "/proxy/api/imgur/chapter/5NFgeOs/"
+      "2":{
+         "title":"Zoo ",
+         "volume":"1",
+         "groups":{
+            "A and D":"/proxy/api/imgur/chapter/5NFgeOs/"
+         },
+         "last_updated":"1615297170"
       },
-      "last_updated": "1615297170"
-    },
-    "3": {
-      "title": "Slogan",
-      "volume": "1",
-      "groups": {
-        "A and D": "/proxy/api/imgur/chapter/30v5sxg/"
+      "3":{
+         "title":"Slogan",
+         "volume":"1",
+         "groups":{
+            "A and D":"/proxy/api/imgur/chapter/30v5sxg/"
+         },
+         "last_updated":"1612877970"
       },
-      "last_updated": "1612877970"
-    },
-     "4": {
-      "title": "Crew",
-      "volume": "1",
-      "groups": {
-        "A and D": "/proxy/api/imgur/chapter/5SMHmRf/"
+      "4":{
+         "title":"Crew",
+         "volume":"1",
+         "groups":{
+            "A and D":"/proxy/api/imgur/chapter/5SMHmRf/"
+         },
+         "last_updated":"1620633851"
       },
-      "last_updated": "1620633851"
-    },
-    "5": {
-      "title": "Fight Song",
-      "volume": "1",
-      "groups": {
-        "A and D": "/proxy/api/imgur/chapter/A4jwbfs/"
+      "5":{
+         "title":"Fight Song",
+         "volume":"1",
+         "groups":{
+            "A and D":"/proxy/api/imgur/chapter/A4jwbfs/"
+         },
+         "last_updated":"1623306010"
       },
-      "last_updated": "1623306010"
-    },
-    "6": {
-      "title": "Cake",
-      "volume": "1",
-      "groups": {
-        "A and D": "/proxy/api/imgur/chapter/zsX4OSc/"
+      "6":{
+         "title":"Cake",
+         "volume":"1",
+         "groups":{
+            "A and D":"/proxy/api/imgur/chapter/zsX4OSc/"
+         },
+         "last_updated":"1622021393"
       },
-      "last_updated": "1622021393"
-    },
-    "7": {
-      "title": "Club Room",
-      "volume": "1",
-      "groups": {
-        "A and D": "/proxy/api/imgur/chapter/fP9PtFv/"
+      "7":{
+         "title":"Club Room",
+         "volume":"1",
+         "groups":{
+            "A and D":"/proxy/api/imgur/chapter/fP9PtFv/"
+         },
+         "last_updated":"1624604312"
       },
-      "last_updated": "1624604312"
-    },
-    "8": {
-      "title": "Student ID",
-      "volume": "1",
-      "groups": {
-        "A and D": "/proxy/api/imgur/chapter/EbNroVs/"
+      "8":{
+         "title":"Student ID",
+         "volume":"1",
+         "groups":{
+            "A and D":"/proxy/api/imgur/chapter/EbNroVs/"
+         },
+         "last_updated":"1619300254"
       },
-      "last_updated": "1619300254"
-     },
-      "9": {
-      "title": "Umbrella",
-      "volume": "1",
-      "groups": {
-        "A and D": "/proxy/api/imgur/chapter/EweJEK9/"
-      },
-      "last_updated": "1624604312"
-    },
-    }
+      "9":{
+         "title":"Umbrella",
+         "volume":"1",
+         "groups":{
+            "A and D":"/proxy/api/imgur/chapter/EweJEK9/"
+         },
+         "last_updated":"1624604312"
+      }
+   }
 }
