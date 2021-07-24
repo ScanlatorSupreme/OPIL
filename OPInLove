@@ -76,6 +76,14 @@
             "A and D":"/proxy/api/imgur/chapter/EweJEK9/"
          },
          "last_updated":"1624604312"
-      }
-   }
+      },
+      "10":{
+         "title":"Battle of The Monkey and The Crab",
+         "volume":"1",
+         "groups":{
+            "A and D":"/proxy/api/imgur/chapter/jf3wcLH/"
+         },
+         "last_updated":"1619300254"
+      },
+    }
 }
